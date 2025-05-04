@@ -1,20 +1,20 @@
 # starknet-counter-app
 Run Locally on Starknet Devnet
 
-    Install dependencies:
+Install dependencies:
 
-yarn install
+    yarn install
 
-    Start the local Starknet devnet:
+Start the local Starknet devnet:
 
-yarn chain
+    yarn chain
 
-    Deploy the sample contract:
+Deploy the sample contract:
 
-yarn deploy
+    yarn deploy
 
-    Start the frontend:
+Start the frontend:
 
-yarn start
+    yarn start
 
 Your app will be live at http://localhost:3000.
