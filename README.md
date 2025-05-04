@@ -1,4 +1,5 @@
-# starknet-counter-app <Code in Master>
+# starknet-counter-app 
+**#<Code in Master>**
 
 Run Locally on Starknet Devnet
 
